@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AHaldar.aternos.me
-",
-    "port": 42240,
+    "ip": "AHaldar.aternos.me",
+
+  "port": 42240,
     "version": "1.20.1",
     "try-creative": false
   },
